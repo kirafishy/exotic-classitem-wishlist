@@ -1,6 +1,7 @@
 title:kirafishy exotic classitem wishlist
 description:just a private wishlist
 
+// 摘自小黑盒作者：铜锣湾话事人陈浩南&高1能
 // Titan
 //notes: 刺客+合成 宗师爽刷
 dimwishlist:item=266021826&perks=1476923952,1476923956
@@ -10,10 +11,68 @@ dimwishlist:item=266021826&perks=1476923953,1476923956
 dimwishlist:item=266021826&perks=1476923954,3573490507
 //notes: 断绝＋合成 应该也可以宗师爽刷但是感觉不如隐身
 dimwishlist:item=266021826&perks=3573490509,1476923956
-//notes: 永恒＋鱼人腿 boss 输出阶段
+//notes: 永恒＋鱼人腿 boss 输出阶段(暮光军火+缘神大爆输出)
 dimwishlist:item=266021826&perks=3573490511,1476923955
 //notes: 终止加凯布利、终止加阿尔法，备战未来
 dimwishlist:item=266021826&perks=3573490510,3573490506
 dimwishlist:item=266021826&perks=3573490510,3573490501
 //notes: 大熊加医疗超快大招
 dimwishlist:item=266021826&perks=3573490505,3573490500
+//notes: 光甲+点炮(一段好耶触发，平光割草)  
+dimwishlist:item=266021826&perks=1476923953,3573490504
+
+// Hunter
+//notes: 刺客＋骗徒（日常）  
+dimwishlist:item=2809120022&perks=1476923952,3751917992
+//notes: 光能＋曲腹蛛（玩火药博弈）  
+dimwishlist:item=2809120022&perks=1476923953,3751917994
+//notes: 光能＋郊狼（ pvp 道具大师） 
+dimwishlist:item=2809120022&perks=1476923953,3751917990
+//notes: 蛇手＋骗徒、蛇手＋虫头、蛇手＋郊狼(3种 pvp 都可以骗徒可以小图对拳头郊狼泛用性广虫头不推荐）  
+dimwishlist:item=2809120022&perks=1476923954,3751917992
+dimwishlist:item=2809120022&perks=1476923954,3751917991
+dimwishlist:item=2809120022&perks=1476923954,3751917990
+//notes: 加拉诺＋卯榫( pve 割草）  
+dimwishlist:item=2809120022&perks=3751917998,3751917993
+//notes: 卡利班＋骗徒（没有黑盒说的那么影响叠近战层数）  
+dimwishlist:item=2809120022&perks=3751917996,3751917992
+//notes: 复兴+曲腹蛛 双重护甲铁王八（理论上）  
+dimwishlist:item=2809120022&perks=3751917995,3751917991
+//notes: 光甲+骗子手(加速手雷回转)  
+dimwishlist:item=2809120022&perks=1476923953,3751917992
+//notes: 复兴手+骗子手(加强暮域雷控场)  
+dimwishlist:item=2809120022&perks=3751917995,3751917992
+//notes: 光甲+合成手(肘击废墟老一)  
+dimwishlist:item=2809120022&perks=3751917995,1476923956
+//notes: 卡利班+合成手(绳标流)
+dimwishlist:item=2809120022&perks=3751917996,1476923956
+
+// Warlock
+//notes: 光能＋和谐可以玩线虫流  
+dimwishlist:item=2273643087&perks=1476923953,183430254
+//notes: 光能+利爪 备战未来  
+dimwishlist:item=2273643087&perks=1476923953,183430247
+//notes: 蛇手＋和谐 武器要求高，打pvp大招快  
+dimwishlist:item=2273643087&perks=1476923954,183430254
+//notes: 鹿头＋鱼人腿 应对高难本的输出boss  
+dimwishlist:item=2273643087&perks=183430248,1476923955
+//notes: 毒手+合成 玩光明飞蛾 pve  
+dimwishlist:item=2273643087&perks=1476923954,1476923956
+//notes: 毒手＋利爪或许可以割草  
+dimwishlist:item=2273643087&perks=1476923954,183430247
+//notes: 娥素手/光甲+真理头(手雷回转，扔雷增伤)  
+dimwishlist:item=2273643087&perks=183430253,1476923957
+dimwishlist:item=2273643087&perks=1476923953,1476923957
+//notes: 神话+鱼人腿 不缺生存的boss输出环节  
+dimwishlist:item=2273643087&perks=183430250,1476923955
+//notes: 坏死+鱼人腿(毒术士打宗师)  
+dimwishlist:item=2273643087&perks=183430252,1476923955
+//notes: 光甲+鱼人腿（比较通用，技能回转+大招增伤）  
+dimwishlist:item=2273643087&perks=1476923953,1476923955
+//notes: 光甲+合成(光明飞蛾玩具)  
+dimwishlist:item=2273643087&perks=1476923953,1476923956
+//notes: 神话+和谐（玩庄家之选快速回大招）
+dimwishlist:item=2273643087&perks=183430250,183430254
+//notes: 
+
+//notes: 
