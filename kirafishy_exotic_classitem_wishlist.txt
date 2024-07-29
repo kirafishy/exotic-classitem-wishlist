@@ -1,0 +1,19 @@
+title:kirafishy exotic classitem wishlist
+description:just a private wishlist
+
+// Titan
+//notes: 刺客+合成 宗师爽刷
+dimwishlist:item=266021826&perks=1476923952,1476923956
+//notes: 光能＋合成 割草爽割，高难容错低了点
+dimwishlist:item=266021826&perks=1476923953,1476923956
+//notes: 蛇手＋伤痕 伤痕回复削了不少可以玩玩看
+dimwishlist:item=266021826&perks=1476923954,3573490507
+//notes: 断绝＋合成 应该也可以宗师爽刷但是感觉不如隐身
+dimwishlist:item=266021826&perks=3573490509,1476923956
+//notes: 永恒＋鱼人腿 boss 输出阶段
+dimwishlist:item=266021826&perks=3573490511,1476923955
+//notes: 终止加凯布利、终止加阿尔法，备战未来
+dimwishlist:item=266021826&perks=3573490510,3573490506
+dimwishlist:item=266021826&perks=3573490510,3573490501
+//notes: 大熊加医疗超快大招
+dimwishlist:item=266021826&perks=3573490505,3573490500
