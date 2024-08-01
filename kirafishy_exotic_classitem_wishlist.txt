@@ -54,8 +54,9 @@ dimwishlist:item=2809120022&perks=3751917997,3751917994
 // Warlock
 //notes: 光能＋和谐可以玩线虫流  
 dimwishlist:item=2273643087&perks=1476923953,183430254
-//notes: 光能+利爪 备战未来  
+//notes: 光能+利爪/刺客+利爪 BV18H4y1c7st  
 dimwishlist:item=2273643087&perks=1476923953,183430247
+dimwishlist:item=2273643087&perks=1476923952,183430247
 //notes: 蛇手＋和谐 武器要求高，打pvp大招快  
 dimwishlist:item=2273643087&perks=1476923954,183430254
 //notes: 鹿头＋鱼人腿 应对高难本的输出boss  
