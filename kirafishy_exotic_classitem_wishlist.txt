@@ -78,3 +78,5 @@ dimwishlist:item=2273643087&perks=1476923953,1476923955
 dimwishlist:item=2273643087&perks=1476923953,1476923956
 //notes: 神话+和谐（玩庄家之选快速回大招）
 dimwishlist:item=2273643087&perks=183430250,183430254
+//notes: 觅敌者+郊狼 BV1jb42177m8
+dimwishlist:item=2809120022&perks=3751917997,3751917990
