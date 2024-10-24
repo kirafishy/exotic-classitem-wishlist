@@ -144,12 +144,12 @@ rules:
   - RULE-SET,reject,REJECT
   - RULE-SET,icloud,DIRECT
   - RULE-SET,apple,DIRECT
-  - RULE-SET,google,PROXY
-  - RULE-SET,proxy,PROXY
+  - RULE-SET,google,🚀 节点选择
+  - RULE-SET,proxy,🚀 节点选择
   - RULE-SET,direct,DIRECT
   - RULE-SET,lancidr,DIRECT
   - RULE-SET,cncidr,DIRECT
-  - RULE-SET,telegramcidr,PROXY
+  - RULE-SET,telegramcidr,🚀 节点选择
   - GEOIP,LAN,DIRECT
   - GEOIP,CN,DIRECT
 
