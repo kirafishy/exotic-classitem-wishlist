@@ -1,4 +1,4 @@
-#中转站
+# 中转站
 DOMAIN-SUFFIX,hybgzs.com
 DOMAIN-SUFFIX,jiuuij.de5.net
 DOMAIN-SUFFIX,muyuan.do
@@ -14,3 +14,6 @@ DOMAIN-SUFFIX,unity2.ai
 DOMAIN-SUFFIX,krill-ai.com
 DOMAIN-SUFFIX,hezu.ink
 DOMAIN-SUFFIX,coderelay.cn
+
+# 需要直连
+DOMAIN-SUFFIX,mulerun.com
